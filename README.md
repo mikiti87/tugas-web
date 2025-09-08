@@ -76,3 +76,7 @@ Kesimpulan
 File main.dart ini adalah dasar aplikasi Flutter.
 Semua tampilan diatur dengan widget.
 Cocok untuk pemula karena strukturnya sederhana dan mudah dipahami.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8c6177db-537e-4510-bb09-1f14b87d5067" />
+
+
